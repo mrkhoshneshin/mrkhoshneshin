@@ -8,7 +8,7 @@ Now!, <b>Vistaroid</b> has been borned and I'm so happy that we can help each ot
 As I sayd, I would like to be a part of a team rather than working on projects alone.<br>
 <h2>Vistaroid 📱</h2>
 A virtual team made with 4 developers about 3 month ago<br>
-our goal is help each other in projects and improve knowledges with play weekly meetings and talk about works and android convepts.
+our goal is help each other in projects and improve knowledges with play weekly meetings and talk about works and android concepts.
 <hr>
 <a href="https://github.com/ghost1372">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkhoshneshin&show_icons=true&count_private=true&include_all_commits=true" /></a>
