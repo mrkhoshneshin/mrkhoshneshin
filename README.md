@@ -1,4 +1,6 @@
-### Hi I'm MohammadJavad 👋
+### Hi I'm MohammadJavad 👋  <br><br>
+<a href="linkedin.com/in/mrkhoshneshin"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="gmail.com/mrkhoshneshin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <h2>About me</h2>
 <b>An android developer with <b>1+</b> years experience<br></b>
 Currently, I'm working on android framework and trying to learn more concepts. But every time I'm thinking about flutter.<br>
