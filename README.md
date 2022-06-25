@@ -7,7 +7,7 @@ It's good to say that 3 month ago I decided to make a team and work with them on
 Now!, <b>Vistaroid</b> has been borned and I'm so happy that we can help each other and early other developers.<br>
 As I sayed, I would like to be a part of a team rather than working on projects alone.<br>
 <h2>Vistaroid 📱</h2>
-A virtual team made with 4 developers about 3 month ago<br>
+A virtual team made with 4 developers in 2022 year<br>
 our goal is help each other in projects and improve knowledges with play weekly meetings and talk about works and android concepts.
 <hr>
 <a href="https://github.com/ghost1372">
